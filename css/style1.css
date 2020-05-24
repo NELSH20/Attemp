@@ -1,0 +1,21 @@
+/* Pirate one font familly
+	font-family: 'Pirata One', cursive;
+ */
+ body{
+ 	background: linear-gradient(180deg, #FBF1F1 -9.87%, #070000 73.68%);
+ 	/*background-image: linear-gradient(#FBF1F1 , black); */
+ }
+
+ #mapa {
+ 	width: 1440px;
+ 	height: 565px;
+ 	left: 1px;
+ 	top: 0px;
+ 
+	 mix-blend-mode : color-burn;
+	 border: 7px solid #000000;
+	 box-sizing: border-box;
+}
+ #bookcover {
+ 	padding-left: 10px;
+ }
